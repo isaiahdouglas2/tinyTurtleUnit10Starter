@@ -12,7 +12,40 @@ right(90);
 forward(50);
 }
 
-// Type your function call below
+
+function pentagon(){
+    forward(50);
+right(60);
+forward(50);
+right(60);
+forward(50);
+right(60);
+forward(50);
+right(60);
+forward(50);
+right(60);
+forward(50);
+}
+
+
+pentagon();
+
+stamp();
+
+    
+    
+    
+    
+    
+
+
+rectangle();
+
+
+
+
+
+
 
 
 stamp();
